@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nocmu.me/static/css/main.b836d7aa.css",
-    "main.js": "/nocmu.me/static/js/main.1defb8c6.js",
-    "FastingAPIResponse.js": "/nocmu.me/static/js/FastingAPIResponse.bf0e69a7.chunk.js",
-    "static/js/787.032f5ede.chunk.js": "/nocmu.me/static/js/787.032f5ede.chunk.js",
-    "index.html": "/nocmu.me/index.html",
-    "main.b836d7aa.css.map": "/nocmu.me/static/css/main.b836d7aa.css.map",
-    "main.1defb8c6.js.map": "/nocmu.me/static/js/main.1defb8c6.js.map",
-    "FastingAPIResponse.bf0e69a7.chunk.js.map": "/nocmu.me/static/js/FastingAPIResponse.bf0e69a7.chunk.js.map",
-    "787.032f5ede.chunk.js.map": "/nocmu.me/static/js/787.032f5ede.chunk.js.map"
+    "main.css": "/static/css/main.b836d7aa.css",
+    "main.js": "/static/js/main.10784de6.js",
+    "FastingAPIResponse.js": "/static/js/FastingAPIResponse.bf0e69a7.chunk.js",
+    "static/js/787.032f5ede.chunk.js": "/static/js/787.032f5ede.chunk.js",
+    "index.html": "/index.html",
+    "main.b836d7aa.css.map": "/static/css/main.b836d7aa.css.map",
+    "main.10784de6.js.map": "/static/js/main.10784de6.js.map",
+    "FastingAPIResponse.bf0e69a7.chunk.js.map": "/static/js/FastingAPIResponse.bf0e69a7.chunk.js.map",
+    "787.032f5ede.chunk.js.map": "/static/js/787.032f5ede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b836d7aa.css",
-    "static/js/main.1defb8c6.js"
+    "static/js/main.10784de6.js"
   ]
 }
